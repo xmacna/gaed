@@ -6,7 +6,7 @@
 [![X](https://img.shields.io/badge/X-xmacna-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/xmacna)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafael%20Reis-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/raffareis/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucca%20Carvalho-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lucca-carvalho/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucca%20Carvalho-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lucca-noronha-carvalho/)
 
 # Flowise
 
@@ -16,6 +16,7 @@
 # Cursor
 
 [![Website](https://img.shields.io/badge/Website-cursor.com-blue?style=flat-square&logo=safari)](https://www.cursor.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-getcursor%2Fcursor-181717?style=flat-square&logo=github)](https://github.com/getcursor/cursor)
 
 # Excalidraw
 
@@ -25,6 +26,7 @@
 # Directus
 
 [![Website](https://img.shields.io/badge/Website-directus.io-blue?style=flat-square&logo=safari)](https://directus.io/)
+[![YouTube](https://img.shields.io/badge/YouTube-DirectusVideos-red?style=flat-square&logo=youtube)](https://www.youtube.com/@DirectusVideos)
 [![GitHub](https://img.shields.io/badge/GitHub-directus%2Fdirectus-181717?style=flat-square&logo=github)](https://github.com/directus/directus)
 
 # Deep Learning (Cursos de IA)
