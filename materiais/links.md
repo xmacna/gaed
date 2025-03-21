@@ -61,3 +61,6 @@
 [![Website](https://img.shields.io/badge/Website-anthropic.com-blue?style=flat-square&logo=safari)](https://www.anthropic.com/news/model-context-protocol)
 
 [![Website](https://img.shields.io/badge/Website-modelcontextprotocol.io-blue?style=flat-square&logo=safari)](https://modelcontextprotocol.io/)
+
+
+![Gl_G3S4bYAIMCBs](https://github.com/user-attachments/assets/cf5caf55-e5c1-4468-ba24-3dfd84740ede)
