@@ -53,3 +53,11 @@
 # Deep Learning (Cursos de IA)
 
 [![Website](https://img.shields.io/badge/Website-deeplearning.ai-blue?style=flat-square&logo=safari)](https://learn.deeplearning.ai/)
+
+# MCP
+
+[![GitHub](https://img.shields.io/badge/GitHub-modelcontextprotocol%2Fservers-181717?style=flat-square&logo=github)](https://github.com/modelcontextprotocol/servers)
+
+[![Website](https://img.shields.io/badge/Website-anthropic.com-blue?style=flat-square&logo=safari)](https://www.anthropic.com/news/model-context-protocol)
+
+[![Website](https://img.shields.io/badge/Website-modelcontextprotocol.io-blue?style=flat-square&logo=safari)](https://modelcontextprotocol.io/)

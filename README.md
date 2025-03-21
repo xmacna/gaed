@@ -51,6 +51,6 @@ O Hermes é o Vendedor Digital da Xmacna que está transformando o mundo das ven
 - **Jornada de Vendas com IA**: Metodologia desenvolvida pela Xmacna para otimizar a comunicação, economizar tempo e recursos e aumentar faturamento
 - **Jornada Xmacna de Inteligência Artificial**: Acesso a e-book com ferramentas essenciais, podcasts e palestras exclusivas
 
-## Contato
+## Links úteis:
 
-Para mais informações, visite [xmacna.ai](https://xmacna.ai)
+[Links](materiais/links.md)
